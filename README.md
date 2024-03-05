@@ -1,4 +1,3 @@
-# akarigoo
-Best ERP for Manufacturing | Odoo ERP Software in the UK
-Odoo is an all-in-one Manufacturing ERP software including Schedule & Plan, billing, inventory, Workcenter Control Panel and project management.
-https://akarigo.com/erp-for-manufacturing-business/
+Leading Odoo ERP Consultant Services in UK - Akarigo
+Akarigo is the best ERP consulting company in the UK. Akarigo has the best experts in Odoo consulting helping companies with their CRM and ERP projects. 
+https://akarigo.com/odoo-erp-consultant-uk
